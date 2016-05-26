@@ -4,4 +4,6 @@ In the meantime here is a simple snapshot of the 1.3 docs as of 5-25-2016 based 
 
 Simply clone it and point your browser at it.
 
+If you find any broken links, feel free to drop me an issue or a pull request.  I will happily fix.
+
 Enjoy!
